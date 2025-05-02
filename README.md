@@ -24,6 +24,6 @@
 
 1. تشغيل حاويات Docker:
  
-   <pre lang="markdown"> ``` docker start hadoop-master hadoop-worker1 hadoop-worker2 ``` </pre>
+   <pre lang="markdown">  docker start hadoop-master hadoop-worker1 hadoop-worker2 </pre>
    
 
