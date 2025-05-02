@@ -23,8 +23,7 @@
 ##  إعداد بيئة العمل
 
 1. تشغيل حاويات Docker:
-   ```bash
-  
+ 
    <pre lang="markdown"> ``` docker start hadoop-master hadoop-worker1 hadoop-worker2 ``` </pre>
    
 
